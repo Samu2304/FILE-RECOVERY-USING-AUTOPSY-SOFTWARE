@@ -71,7 +71,17 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ```
 
 ## OUTPUT:
-Recovered Deleted File List and Details
+
+![WhatsApp Image 2025-08-28 at 14 07 47_496fa16c](https://github.com/user-attachments/assets/501b5130-419e-450c-806a-468e0d0a998f)
+
+![WhatsApp Image 2025-08-28 at 14 08 42_e1a02c27](https://github.com/user-attachments/assets/7fa89bcc-5a7b-479a-aefb-e5e55d71fee5)
+
+![WhatsApp Image 2025-08-28 at 14 10 25_19da80dd](https://github.com/user-attachments/assets/f63582b7-5595-4785-8b91-8059a19f4366)
+
+![WhatsApp Image 2025-08-28 at 14 51 27_63c3bb27](https://github.com/user-attachments/assets/4a8ad5dd-c921-4419-987f-666a1db1475c)
+
+![WhatsApp Image 2025-08-28 at 14 51 40_ece408d5](https://github.com/user-attachments/assets/5a9aa326-6d42-4713-81ad-b0fc28df221e)
+
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
